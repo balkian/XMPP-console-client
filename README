@@ -1,1 +1,7 @@
-Web40 Git Repository
+XMPP Console client to connect to SPADE agents.
+
+
+*WARNING*
+This was intended to be the official repository of Web 4.0,
+but it became only a test of SPADE and XMPP. The integration
+with normal clients wasn't good enough for Web 4.0
